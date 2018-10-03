@@ -1,0 +1,4 @@
+*.class
+
+# Intellij
+.idea
