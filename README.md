@@ -36,10 +36,3 @@ In Keras this architecture looks like the following:
    
    ```
 
-## Data
-
-Soon
-
-## Results
-
-Soon
